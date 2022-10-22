@@ -5,7 +5,7 @@ Ce projet a été conçu pour un environnement Linux, avec OpenGL et notamment l
 ### Pré-requis
 Pour ce programme vous aurez besoin de :
 - compilateur g++
-- OpenGL qui peut être installer avec la commande ``sudo apt-get install freeglut3``
+- OpenGL qui peut être installé avec la commande ``sudo apt-get install freeglut3``
 ### Installation
 Un Makefile est a disposition pour obtenir un exécutable
 Compilation 
